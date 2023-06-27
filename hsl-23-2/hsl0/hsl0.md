@@ -241,7 +241,7 @@ Many of you may already be familiar with programming in an Imperative language, 
 
 ![](Images/72.png)
 
-In functional program, you must concieve of of everything as functions from inputs to outputs. If you want to you combine operations, you pipe them -- you feed the output of a function as the input to another function, to create a new function. An Urbit instance is a function!
+In functional program, you must concieve of everything as functions from inputs to outputs. If you want to you combine operations, you pipe them -- you feed the output of a function as the input to another function, to create a new function. An Urbit instance is a function!
 
 
 
